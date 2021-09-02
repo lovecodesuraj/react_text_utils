@@ -50,6 +50,9 @@ function App() {
             <Route exact path="/">
               <TextForm heading="Enter your text here" mode={mode} showAlert={showAlert} theme={theme} setTheme={setThemeId}/>
             </Route>
+            <Route exact path="/ReactJs-TextUtils">
+              <TextForm heading="Enter your text here" mode={mode} showAlert={showAlert} theme={theme} setTheme={setThemeId}/>
+            </Route>
           </Switch>
         </div>
         <div className="container">
