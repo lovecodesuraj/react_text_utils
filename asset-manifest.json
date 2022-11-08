@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lovecodesuraj/react_text_utils/static/css/main.5739ad41.chunk.css",
+    "main.js": "/lovecodesuraj/react_text_utils/static/js/main.21c7e12c.chunk.js",
+    "main.js.map": "/lovecodesuraj/react_text_utils/static/js/main.21c7e12c.chunk.js.map",
+    "runtime-main.js": "/lovecodesuraj/react_text_utils/static/js/runtime-main.870c15bc.js",
+    "runtime-main.js.map": "/lovecodesuraj/react_text_utils/static/js/runtime-main.870c15bc.js.map",
+    "static/js/2.d8969411.chunk.js": "/lovecodesuraj/react_text_utils/static/js/2.d8969411.chunk.js",
+    "static/js/2.d8969411.chunk.js.map": "/lovecodesuraj/react_text_utils/static/js/2.d8969411.chunk.js.map",
+    "static/js/3.1f215c1d.chunk.js": "/lovecodesuraj/react_text_utils/static/js/3.1f215c1d.chunk.js",
+    "static/js/3.1f215c1d.chunk.js.map": "/lovecodesuraj/react_text_utils/static/js/3.1f215c1d.chunk.js.map",
+    "index.html": "/lovecodesuraj/react_text_utils/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/lovecodesuraj/react_text_utils/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.d8969411.chunk.js.LICENSE.txt": "/lovecodesuraj/react_text_utils/static/js/2.d8969411.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.870c15bc.js",
+    "static/js/2.d8969411.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.21c7e12c.chunk.js"
+  ]
+}
